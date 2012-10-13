@@ -1,0 +1,257 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Title
+
+\series bold
+\color red
+CURRICULUM VITAE
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Usuario/Downloads/217130_1992282086545_1228188050_32386483_3983162_n.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Datos Personales
+\end_layout
+
+\begin_layout Description
+Nombres: Luiggy Alberto
+\end_layout
+
+\begin_layout Description
+Apellidos: Allauca Gusqui
+\end_layout
+
+\begin_layout Description
+Nacionalidad: Ecuatoriana
+\end_layout
+
+\begin_layout Description
+Fecha_de_nacimiento: 18 de julio de 1987
+\end_layout
+
+\begin_layout Description
+Lugar_de_nacimiento: Guayaquil-Ecuador
+\end_layout
+
+\begin_layout Description
+Cédula_de_identidad: 0927292011
+\end_layout
+
+\begin_layout Description
+Número_de_matrícula: 200734473
+\end_layout
+
+\begin_layout Description
+Estado_civil: Soltero
+\end_layout
+
+\begin_layout Section
+Educación
+\end_layout
+
+\begin_layout Description
+Primaria: Medalla Milagrosa, Guayaquil(1991-1995); Unidad Educativa Brisas
+ del Rio, Guayaquil(1996-2000)
+\end_layout
+
+\begin_layout Description
+Secundaria: Unidad Educativa San Agustín, Guayaquil(2001-2006)
+\end_layout
+
+\begin_layout Description
+Superior: Escuela Superior Politécnica del Litoral(ESPOL), Guayaquil(2007-actual
+idad)
+\end_layout
+
+\begin_layout Section
+Título
+\end_layout
+
+\begin_layout Plain Layout
+Bachiller en informatica especialización contabilidad
+\end_layout
+
+\begin_layout Section
+Experiencia Laboral
+\end_layout
+
+\begin_layout Plain Layout
+Pasante en SAMBITO(Soluciones Ambientales Totales), desarrollador del sistema
+ de información del SIAV; Guayaquil(2011-2012)
+\end_layout
+
+\begin_layout Section
+Experiencia Computacional
+\end_layout
+
+\begin_layout Description
+Herramientas: Visual Studio, NetBeans, pgadmin, WampServer, Simulink, Labview,
+ Multisim, Max+plus.
+\end_layout
+
+\begin_layout Description
+Lenguajes_de_programación: Visual Basic 6.0, Lenguaje C, Java, vhdl.
+\end_layout
+
+\begin_layout Description
+Sistemas_operativos: Windows 98, Windows XP, Windows Vista, Windows 7, Ubuntu.
+\end_layout
+
+\begin_layout Description
+Base_de-datos: Oracle-SQL, MySQL, PostgreSQL.
+\end_layout
+
+\begin_layout Description
+Herramientas_de_colaboración_digital: Microsoft Excel (2003, 2007, 2010),
+ Microsoft Word (2003, 2007, 2010), Microsoft PowerPoint (2003, 2007, 2010),
+ Microsoft Visio(2010), Microsoft Project(2010).
+\end_layout
+
+\begin_layout Description
+Herramientas_web: Lenguaje XHTML, JSP, CSS, JavaScript, AJAX.
+\end_layout
+
+\begin_layout Section
+Cursos Realizados
+\end_layout
+
+\begin_layout Enumerate
+Fundamentos de JAVA.
+\end_layout
+
+\begin_layout Enumerate
+Desarrollo de aplicaciones web usando tecnología open source.
+\end_layout
+
+\begin_layout Section
+Proyectos Académicos
+\end_layout
+
+\begin_layout Description
+Scrabble_en_C: Proyecto realizado en Lenguaje C.
+ Versión Simplificada del juego de mesa Scrabble cuyos derechos son de Hasbro.
+ Juegan 2 personas, usa letras, verifica validez de palabras, verifica validez
+ de encaje en palabras en un “tablggggggggero”.
+\end_layout
+
+\begin_layout Description
+Batalla_de_barcos_en_JAVA: Proyecto realizado en Lenguaje Java.
+ Versión Simplificada del juego de mesa Scrabble cuyos derechos son de Hasbro.
+ Juegan 2 personas, usa letras, verifica validez de palabras, verifica validez
+ de encaje en palabras en un “tablero”.
+\end_layout
+
+\begin_layout Description
+SIAV: Proyecto realizado con herramientas Web.
+ Administra y consulta los convenios realizados por el departamento de Relacione
+s Extrenas (RELEX) de la ESPOL y las personas que han participado en estos
+ convenios.
+\end_layout
+
+\begin_layout Description
+BioSys: Proyecto realizado con herramientas Web.
+ Administr nha y consulta los clientes, proveedores, pagos, cobros y servicios
+ que realiza la empresa ECUABIOGEN S.A.
+\end_layout
+
+\begin_layout Description
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Lenguajes de programación 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
